@@ -1,0 +1,9 @@
+{
+  "name": "kartzy-products-function",
+  "version": "1.0.0",
+  "description": "Products Lambda function for Kartzy eCommerce",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1490.0"
+  }
+}
